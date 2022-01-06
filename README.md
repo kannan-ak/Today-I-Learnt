@@ -1,27 +1,25 @@
 # Today-I-Learnt
-
-## TIL: 04-01-2022
-
+---
+##### TIL: 04-01-2022
 - TryHackMe: Registered to TryHackMe and did basic networking tutorials.
 - Comptia Security+ : GRC controls - Control categories, classifications.
 - CCNA: OSPF neighbors, adjacent neighbors.
 
+---
 
-## TIL: 05-01-2022
+##### TIL: 05-01-2022
 
-# TryHackMe
-
+###### TryHackMe
 - Nmap introduction. Types of scans - tcp connect, stealth, null scans, nse scripts execution. https://tryhackme.com/room/furthernmap
 
 - Hacker Methodology room - https://tryhackme.com/room/hackermethodology
 
 - How to do reconaissance, enumeration, scanning of the targets using oss tools
 
+---
+##### TIL: 06-01-2022
 
-## TIL: 06-01-2022
-
-# TryHackMe
-
+###### TryHackMe
 - Google dorking. Learned about the uses of robots.txt, sitemaps
   Ref: https://tryhackme.com/room/googledorking
 
