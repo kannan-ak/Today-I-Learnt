@@ -30,3 +30,30 @@
   Ref: https://developers.google.com/search/docs/advanced/sitemaps/overview
 
 - Exif tool: To read the metadata of the images. Can identify owner, gps location, etc.,
+
+---
+##### TIL: 07-01-2022
+
+Prepared for my devsecops conf presentation talk
+
+---
+
+##### TIL: 08-01-2022
+
+My first ever public conference talk. Made a presentation and demo about "Infrastructure as Code".
+
+Link: https://youtu.be/upBfwP7CYvo?t=13775
+
+---
+##### TIL: 10-01-2022
+
+- Finished Pre Security learning path in tryhackme
+- Learned about how email works, what smtp does
+
+---
+##### TIL: 11-01-2022
+
+###### TryHackMe
+- Got introduction to Metasploit framework. Used modules, options, exploit features against target host
+- SMTP, NFS, Samba share enumeration activities
+- Learned about the type of hackers, pentesting box. Security models and hacker methodology.
