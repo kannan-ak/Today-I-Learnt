@@ -57,3 +57,48 @@ Link: https://youtu.be/upBfwP7CYvo?t=13775
 - Got introduction to Metasploit framework. Used modules, options, exploit features against target host
 - SMTP, NFS, Samba share enumeration activities
 - Learned about the type of hackers, pentesting box. Security models and hacker methodology.
+
+---
+##### TIL: 13-01-2022
+- Certificate Transparency Logs - crt.sh
+- Content discovery
+
+---
+##### TIL: 13-01-2022
+###### TryHackMe
+- Authentication bypass, cookie tampering, IDOR
+- File inclusion room : Local file inclusion, Remote code execution tasks.
+
+---
+##### TIL: 14-01-2022
+
+###### TryHackMe
+- Finished Remote file inclusion task in Tryhackme
+
+- Computer Networks Top-Down approach : Application layer - Http, FTP
+
+---
+##### TIL: 15-01-2022
+
+###### TryHackMe
+- Slow day. Couldn't work on tryhackme.
+
+###### Readings
+- CN Top-Down approach : Application layer - Email, DNS 
+
+---
+##### TIL: 16-01-2022
+
+###### TryHackMe
+- SQL union attacks
+- Burp suite tool exploration
+
+###### Readings
+- DNS in detail : https://www.cloudflare.com/learning/dns/
+- Cloudflare's 1.1.1.1, R2 storage, etc
+---
+##### TIL: 17-01-2022
+
+###### TryHackMe
+- Burp suite basics, features
+- Continued Beginner course
