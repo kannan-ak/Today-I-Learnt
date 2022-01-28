@@ -84,7 +84,7 @@ Link: https://youtu.be/upBfwP7CYvo?t=13775
 - Slow day. Couldn't work on tryhackme.
 
 ###### Readings
-- CN Top-Down approach : Application layer - Email, DNS 
+- CN Top-Down book : Application layer - Email, DNS 
 
 ---
 ##### TIL: 16-01-2022
@@ -102,3 +102,83 @@ Link: https://youtu.be/upBfwP7CYvo?t=13775
 ###### TryHackMe
 - Burp suite basics, features
 - Continued Beginner course
+
+---
+##### TIL: 18-01-2022
+
+###### TryHackMe
+- Finished Beginner Course network section
+
+###### Misc
+Discussion with Lalith on Operating Systems, Networks. 
+
+---
+##### TIL: 19-01-2022
+
+###### TryHackMe
+- Identifying Exploitdb script
+
+###### Readings
+- CN Top-down book: Transport Layer
+- Learned about Multiplexing/demux. Need for FCS.
+
+---
+##### TIL: 20-01-2022
+
+###### TryHackMe
+- First CTF. PickleRick Room. 
+
+###### Readings
+- CCNA : Intro to TCP
+
+---
+##### TIL: 21-01-2022
+
+- TryHackMe : Burp Suite features
+
+---
+##### TIL: 22-01-2022
+
+- Started CS50 Harvard Course : Intro to C - https://www.youtube.com/watch?v=zYierUhIFNQ
+- Learned about Big O notation, sigma notations
+- TryHackMe: Nmap scans, TCP scans, Host check, port check, etc.,
+
+---
+##### TIL: 23-01-2022
+
+- TryHackMe: Network security, Vuln research sections
+- CCNA recap
+
+---
+##### TIL: 24-01-2022
+
+- TryHackMe: Protocols and Servers room - https://tryhackme.com/room/protocolsandservers2 
+- CS50: Lecture 2 : Arrays - https://www.youtube.com/watch?v=tI_tIZFyKBw
+
+---
+##### TIL: 25-01-2022
+
+- TryHackMe: Metasploit module
+- CCNA : subnetting exercises - Learned about subnetting, supernetting.
+- CCNA : Learned how to identify the subnet's range, network/broadcast address, first and last ip of the subnet
+
+---
+##### TIL: 26-01-2022
+
+- Meterpreter session in TryHackMe
+- CS50 Algorithms lecture : https://www.youtube.com/watch?v=gR6nycuZKlM
+- CS50 - Learned about selection sort, bubble sort, merge sort
+
+---
+##### TIL: 27-01-2022
+
+- Started minikube-web-server project
+- Wrote python flask app, docker file, minikube setup
+
+---
+##### TIL: 28-01-2022
+
+- Continued working on minikube-web-server project
+- K8s ingress doesn't work on minikube mac. Installed hyperkit and running minikube ingress on it.
+
+###### Felt down and demotivated for the last 2 days. Couldn't focus on learning anything. Taking it easy now and the grind will resume tomorrow!
