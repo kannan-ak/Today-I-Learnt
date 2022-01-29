@@ -182,3 +182,11 @@ Discussion with Lalith on Operating Systems, Networks.
 - K8s ingress doesn't work on minikube mac. Installed hyperkit and running minikube ingress on it.
 
 ###### Felt down and demotivated for the last 2 days. Couldn't focus on learning anything. Taking it easy now and the grind will resume tomorrow!
+
+---
+##### TIL: 29-01-2022
+
+- Completed minikube-webserver assignment. Lots of learnings. 
+Repo: https://github.com/kannan-ak/minikube-web-server
+
+- TryHackMe: Shells introduction. Reverse, bind shells. How to stabilise exploited machine's shell.
