@@ -190,3 +190,44 @@ Discussion with Lalith on Operating Systems, Networks.
 Repo: https://github.com/kannan-ak/minikube-web-server
 
 - TryHackMe: Shells introduction. Reverse, bind shells. How to stabilise exploited machine's shell.
+
+---
+##### TIL: 30-01-2022
+
+- CS50: Finished Lecture 4, Memory - https://www.youtube.com/watch?v=NKTfNv2T0FE
+- Learned about pointers, addresses, malloc, etc.,
+
+---
+##### TIL: 03-02-2022
+
+- Signed up to Educative.io
+
+###### Been a less productive week due to travel and change of places
+---
+##### TIL: 04-02-2022
+
+- TryHackMe: Shell exploitation using sudo, suid tasks
+- Educative.io : Intro to Flask, understanding views/routes/converters
+
+---
+##### TIL: 05-02-2022
+
+NADA!
+
+---
+
+##### TIL: 06-02-2022
+NADA!
+
+---
+##### TIL: 07-02-2022
+
+- Educative.io : Continued Flask course with intro to templates, static files, etc.,
+
+---
+##### TIL: 08-02-2022
+
+- TryHackMe: Completed Linux Privelege Escalation room and Capstone challenge.
+- Wrote blog post on the Linux PrivEsc challenge : https://medium.com/@kannan_ak/writeup-on-tryhackme-thm-linux-privilege-escalation-capstone-challenge-6a06f469c2c5
+
+---
