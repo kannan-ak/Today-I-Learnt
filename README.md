@@ -231,3 +231,20 @@ NADA!
 - Wrote blog post on the Linux PrivEsc challenge : https://medium.com/@kannan_ak/writeup-on-tryhackme-thm-linux-privilege-escalation-capstone-challenge-6a06f469c2c5
 
 ---
+
+
+##### No progress over the last 3 weeks :( Lost tryhackme streak, CS50, and daily study routines.
+##### To quote Alfred in Batman - "Why do we fall, sir? So that we can learn to pick ourselves up"
+#### Vamos!
+
+
+---
+
+##### TIL: 01-03-2022
+
+- Educative.io : Finished Software and Web architecture module. 
+Link: https://www.educative.io/module/web-application-architecture-101
+- Learned about the basics of Caching, ACID, CAP, Microfrontends, Server/Client Side rendering, progressive web apps, etc.,
+
+Articles:
+- https://future.a16z.com/software-development-building-for-99-developers
