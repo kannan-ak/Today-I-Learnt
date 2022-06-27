@@ -1,5 +1,34 @@
 # Today-I-Learnt
 ---
+
+##### 27-June-2022
+
+Back after a gap of 4 months. Some good news.
+
+Joined Arcesium as Reliability Engineering Lead! Lot to learn and lot to implement!
+Exciting times ahead.
+
+
+* Will be updating the TIL's in reverse chronological order with latest being at the top. *
+
+##### TIL
+- Open Telemetry in detail. Went through lot of tutorials and videos.
+- Fallacies of distributed computing - https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing#
+
+
+##########
+
+
+
+
+
+
+
+
+
+
+
+
 ##### TIL: 04-01-2022
 - TryHackMe: Registered to TryHackMe and did basic networking tutorials.
 - Comptia Security+ : GRC controls - Control categories, classifications.
