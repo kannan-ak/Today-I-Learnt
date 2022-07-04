@@ -1,6 +1,6 @@
 # Today-I-Learnt
 ---
-##### 27-June-2022
+##### 4-July-2022
 
 - Learned how to create dashboards in datadog with template variables, guage metric calculation, filter the tags etc.,
 - Observability Chapter 5 : Why distributed tracing is better than metrics, logs. 
