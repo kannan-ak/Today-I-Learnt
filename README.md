@@ -1,5 +1,16 @@
 # Today-I-Learnt
 ---
+##### 27-June-2022
+
+- Learned how to create dashboards in datadog with template variables, guage metric calculation, filter the tags etc.,
+- Observability Chapter 5 : Why distributed tracing is better than metrics, logs. 
+    - How to make out of an unstructured log into structured one.
+    - How to instrument tracing manually
+    - High cardianality and high dimensionality
+- Synthetic monitoring and why its needed
+
+
+---
 
 ##### 27-June-2022
 
