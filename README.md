@@ -1,5 +1,11 @@
 # Today-I-Learnt
 ---
+##### 5-July-2022
+
+- How to effectively search through ELK or any unstructured logs by using columns and fields
+- Created post mortem for a production incident (3 hours)
+
+---
 ##### 4-July-2022
 
 - Learned how to create dashboards in datadog with template variables, guage metric calculation, filter the tags etc.,
@@ -8,7 +14,6 @@
     - How to instrument tracing manually
     - High cardianality and high dimensionality
 - Synthetic monitoring and why its needed
-
 
 ---
 
